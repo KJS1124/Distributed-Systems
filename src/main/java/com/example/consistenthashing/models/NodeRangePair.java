@@ -3,6 +3,7 @@ package com.example.consistenthashing.models;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 /**
  * Author: Karanjot Singh
@@ -12,6 +13,7 @@ import lombok.Setter;
  */
 @Getter
 @Setter
+@ToString
 @AllArgsConstructor
 public class NodeRangePair implements Comparable {
     private Node node;
