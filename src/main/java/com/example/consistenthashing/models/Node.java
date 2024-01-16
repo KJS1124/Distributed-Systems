@@ -3,6 +3,7 @@ package com.example.consistenthashing.models;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 /**
  * Author: Karanjot Singh
@@ -12,6 +13,7 @@ import lombok.Setter;
  */
 @Getter
 @Setter
+@ToString
 @Builder
 public class Node {
     private String machineIp;
