@@ -1,7 +1,3 @@
-Got it! Here's a revised template for the README.md file specifically tailored for a Java Spring Boot project:
-
----
-
 # Distributed Computing Learning Project
 
 Welcome to the Distributed Computing Learning Project! This project is designed to provide a hands-on learning experience for Java developers interested in exploring distributed computing concepts and technologies using Spring Boot. Whether you're new to distributed systems or looking to deepen your understanding, this project offers a collaborative environment to experiment, learn, and grow.
